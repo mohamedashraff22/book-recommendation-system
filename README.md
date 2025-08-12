@@ -3,6 +3,8 @@
 ## Overview
 The **Book Recommender** is a Python-based application designed to provide book recommendations using semantic similarity search. It utilizes a dataset of approximately 7,000 books with metadata, sourced from Kaggle, to suggest books based on user queries (e.g., "A book about history" or "A book to teach children about nature"). The project is implemented as a Jupyter Notebook (`Book_recommender.ipynb`) and employs NLP techniques with vector embeddings to match queries to book descriptions, offering recommendations via a Gradio interface.
 
+Live Demo: [https://32ab752e645929e36e.gradio.live/](https://32ab752e645929e36e.gradio.live/)
+
 <img width="1919" height="891" alt="image" src="https://github.com/user-attachments/assets/ff87e2a4-05c6-420a-bc20-c73dce20f125" />
 
 <img width="1914" height="870" alt="image" src="https://github.com/user-attachments/assets/77b61572-f005-407d-a8a5-92a46fd906f2" />
